@@ -1,5 +1,6 @@
 
 Hey there, I'm Mohammed Rizwan! 👋
+
 Welcome to my GitHub profile! I'm passionate about full-stack development and constantly expanding my skills in various technologies. With a BSc in Computer Science under my belt, I thrive on creating robust web applications using a blend of frontend and backend technologies.
 
 Here’s a glimpse into my world:
