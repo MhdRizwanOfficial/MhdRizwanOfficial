@@ -17,7 +17,7 @@ Here’s a glimpse into my world:
 
 💡 Goals: Building scalable web solutions that make a difference, one line of code at a time.
 
-📫 Reach Me: Feel free to connect with me here or on LinkedIn to discuss collaborations or just chat about tech!
+📫 Reach Me: Feel free to connect with me here or on LinkedIn(www.linkedin.com/in/mhdrizwanofficial) to discuss collaborations or just chat about tech!
 
 
 
